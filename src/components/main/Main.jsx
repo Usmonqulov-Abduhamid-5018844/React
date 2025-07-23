@@ -173,8 +173,8 @@ function Main() {
             <p className="text-white">Join our newsletter to get top news before anyone else.</p>
             </div>
             <div className="input h-[35px] flex gap-3 px-2">
-                <input className="w-[320px] h-[48px] bg-[#524DC7] text-[#dfe6f0] indent-5 border-[1px] border-[#AEACF9] max-[515px]:w-[250px] max-[515px]:h-[40px] ml-[20px]" type="text" placeholder="Your best email…" name="" id="" />
-                <button className="w-[139px] h-[48px] bg-white text-[#6661F5] font-bold max-[515px]:w-[110px] max-[515px]:h-[40px]">Subscribe</button>"
+                <input className="w-[320px] h-[48px] bg-[#524DC7] text-[#dfe6f0] indent-5 border-[1px] border-[#AEACF9] max-[515px]:w-[250px] max-[515px]:h-[40px] ml-[20px] max-[430px]:w-[200px] max-[430px]:h-[35px]" type="text" placeholder="Your best email…" name="" id="" />
+                <button className="w-[139px] h-[48px] bg-white text-[#6661F5] font-bold max-[515px]:w-[110px] max-[515px]:h-[40px] max-[430px]:w-[80px] max-[430px]:h-[35px] max-[430px]:text-[14px]">Subscribe</button>"
             </div>
             <img className="absolute top-[4px] right-[20px]" src={Soch} alt="" />
           </div>
