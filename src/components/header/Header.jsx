@@ -6,7 +6,7 @@ function Header() {
   return (
     <header className='bg-[#161719]'>
         <nav className='container h-20 gap-8 flex items-center relative'>
-        <div className="shoch absolute right-[-120px] top-[-30px]">
+        <div className="shoch absolute right-[-120px] top-[-30px] max-[1380px]:right-0">
             <img src={soch_2} alt="" />
         </div>
             <div className="logoo flex-1">
