@@ -66,7 +66,7 @@ const Footer = () => {
                 </li>
             </ul>
         </div>
-        <div className='mt-[80px] flex justify-between pr-[25px] gap-5 flex-wrap'>
+        <div className='mt-[80px] flex justify-between pr-[25px] gap-5 flex-wrap mb-[80px]'>
             <p className='text-[#949CA6] flex gap-2'>Made by <p className='text-white'> Cruip.</p> All right reserved</p>
             <div className="icons flex gap-4 mr-5">
                 <img src={twitter} alt="" />
